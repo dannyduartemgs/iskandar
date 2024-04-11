@@ -1,4 +1,4 @@
-# iskandar
+# Iskandar
 Iskandar (Fate Zero) skin for Ravager
 
 The king of conquerors arrives at Risk of Rain 2!
