@@ -15,5 +15,5 @@ If you wish to contact me here's my discord: dannyduartemgs <br />
 A newbie like me could use some tips. 
 
 Credits: <br />
-Model: [https://sketchfab.com/3d-models/revolver-ocelot-ff5fd902fa52417c8065bde63c6d24fb](https://www.deviantart.com/kaiserraiser/art/F-EL-Iskandar-793688774) <br />
+Model: https://www.deviantart.com/kaiserraiser/art/F-EL-Iskandar-793688774 <br />
 Audrey for the skin Tutorial: https://www.youtube.com/watch?v=tQUqlNFgrDM <br />
